@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: #000000; 
+}
+
+.square-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.text-xl {
+  font-family: sans-serif;
+  font-size: 3rem;
+  color: #fff;
+  letter-spacing: 0.1em;
+}
+
+.text-xl span {
+  display: inline-block;
+  white-space: pre; 
+}
